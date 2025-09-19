@@ -32,7 +32,7 @@ public class EditCityFragment extends DialogFragment {
         }
         else {
             throw new RuntimeException(context +
-                    "must implement AddCityDialogueListener or EditCityDialogueListener");
+                    "must implement EditCityDialogueListener");
         }
     }
 
