@@ -9,6 +9,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="text"
+        android:text=""
         android:hint="City" />
 
     <EditText
@@ -17,6 +18,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="text"
+        android:text=""
         android:hint="Province" />
 
 </LinearLayout>
